@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/schlubbi/src/github.com/schlubbi/playground/nand2tetris/part2/project7/VmTranslator/VmTranslator.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
