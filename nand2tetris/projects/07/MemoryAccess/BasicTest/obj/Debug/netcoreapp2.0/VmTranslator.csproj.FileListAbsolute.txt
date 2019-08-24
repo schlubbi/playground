@@ -1,0 +1,10 @@
+/home/schlubbi/src/github.com/schlubbi/playground/nand2tetris/projects/07/MemoryAccess/BasicTest/bin/Debug/netcoreapp2.0/VmTranslator.deps.json
+/home/schlubbi/src/github.com/schlubbi/playground/nand2tetris/projects/07/MemoryAccess/BasicTest/bin/Debug/netcoreapp2.0/VmTranslator.runtimeconfig.json
+/home/schlubbi/src/github.com/schlubbi/playground/nand2tetris/projects/07/MemoryAccess/BasicTest/bin/Debug/netcoreapp2.0/VmTranslator.runtimeconfig.dev.json
+/home/schlubbi/src/github.com/schlubbi/playground/nand2tetris/projects/07/MemoryAccess/BasicTest/bin/Debug/netcoreapp2.0/VmTranslator.dll
+/home/schlubbi/src/github.com/schlubbi/playground/nand2tetris/projects/07/MemoryAccess/BasicTest/bin/Debug/netcoreapp2.0/VmTranslator.pdb
+/home/schlubbi/src/github.com/schlubbi/playground/nand2tetris/projects/07/MemoryAccess/BasicTest/obj/Debug/netcoreapp2.0/VmTranslator.csproj.CoreCompileInputs.cache
+/home/schlubbi/src/github.com/schlubbi/playground/nand2tetris/projects/07/MemoryAccess/BasicTest/obj/Debug/netcoreapp2.0/VmTranslator.AssemblyInfoInputs.cache
+/home/schlubbi/src/github.com/schlubbi/playground/nand2tetris/projects/07/MemoryAccess/BasicTest/obj/Debug/netcoreapp2.0/VmTranslator.AssemblyInfo.cs
+/home/schlubbi/src/github.com/schlubbi/playground/nand2tetris/projects/07/MemoryAccess/BasicTest/obj/Debug/netcoreapp2.0/VmTranslator.dll
+/home/schlubbi/src/github.com/schlubbi/playground/nand2tetris/projects/07/MemoryAccess/BasicTest/obj/Debug/netcoreapp2.0/VmTranslator.pdb
